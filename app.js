@@ -56,6 +56,6 @@ app.get('/ajaxEx/:cad', function (request, response) {
 
 });
 
-app.get('/test/', function (request, response) {
+app.get('/tests/', function (request, response) {
    response.render('index', { title: 'CSV test' });
 });
