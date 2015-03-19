@@ -1,21 +1,21 @@
-# PL - 1415 - Práctica 2 + Karma + Travis
+# PL - 1415 - Práctica 3 + Heroku + Travis
 <center>
 <center>CSV - comma separated values</center>
 ---
 
-> Autor: Germán C. Paz Méndez.
+> Autores: Germán C. Paz Méndez - Álvaro Suárez Chausson - Carlos Troyano Carmona
 
 ><A HREF="http://gcpmendez.github.io/">Github Pages</A>
 <br>
-><A HREF="https://github.com/gcpmendez/Pr2_PL_1415">Repositories</A>
+><A HREF="https://github.com/gcpmendez/Pr3_PL_1415">Repositories</A>
 
 ## Uso
 
-Utilizar CSV [1].
+Heroku CSV [1].
 Ver los tests [2] generados.
 
-[1] - http://gcpmendez.github.io/Pr2_PL_1415 <br>
-[2] - http://gcpmendez.github.io/Pr2_PL_1415/tests/
+[1] - https://pr3pl1415.herokuapp.com/ <br>
+[2] - https://pr3pl1415.herokuapp.com/
 
 <b>Nota:</b> para probar gulp y karma simplemente deberá realizar 
 un clone de la rama y, una vez situados en ella, ejecutar un npm install,
@@ -29,5 +29,5 @@ Para probar karma:
 
 ## Travis
 
-[![Build Status](https://travis-ci.org/gcpmendez/Pr2_PL_1415.svg?branch=gh-pages)](https://travis-ci.org/gcpmendez/Pr2_PL_1415)
+[![Build Status](https://travis-ci.org/gcpmendez/Pr3_PL_1415.svg?branch=gh-pages)](https://travis-ci.org/gcpmendez/Pr3_PL_1415)
 </center>
